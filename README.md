@@ -1,2 +1,4 @@
-# LauncherProfileMaker
-A C# Program to automatically add Chicken Client to the Minecraft Launcher
+# Launcher Profile Maker
+A C# program designed for Chicken Client to make the installation process easier for users.
+We're trying to make the installation process of our client as simple as possible!
+&copy; 2020-2024 Chicken Client. All rights reserved.
